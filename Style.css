@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+}
+
+p{
+    text-align: center;
+    letter-spacing: 0.05px;
+    line-height: 0.5;
+}.nav-links {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    gap: 15px; 
+}
+
+img{
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}.image1{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}.image2{
+display: block;
+margin-top: 10px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 100px;
+}
+.dud-links {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    gap: 15px; 
+}
+
